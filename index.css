@@ -1,0 +1,149 @@
+table td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+.data1{
+    color: aqua;
+    background-color: black;
+    width: 70px;
+    height:30px;
+    text-align: center;
+}
+.data2{
+    color:black;
+    background-color:rgb(154, 32, 32);
+    width: 70px;
+    height: 30px;
+    text-align: center;
+}
+.data3{
+    color:antiquewhite;
+    background-color:green;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+}
+.data4{
+    color:red;
+    background-color:whitesmoke;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+}
+.data5{
+    color:palevioletred;
+    background-color:blue;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+}
+.hello1{
+    color:chartreuse;
+    background-color:darkmagenta;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+}
+.hello2{
+    color:crimson;
+    background-color:khaki;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+}
+.hello3{
+    color:brown;
+    background-color:lightcoral;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+}
+.hello4{
+    color:black;
+    background-color:aqua;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+}
+.hello5{
+    color:gold;
+    background-color:darkgray;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+}
+.hi1{
+    color:black;
+    background-color:seagreen;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+}
+.hi2{
+    color:palegreen;
+    background-color:violet;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+}
+.hi3{
+    color:rgb(180, 255, 30);
+    background-color:coral;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+}
+.hi4{
+    color:hotpink;
+    background-color:black;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+}
+.hi5{
+    color:darkolivegreen;
+    background-color:cadetblue;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+}
+#item1{
+    color:dodgerblue;
+    background-color:brown;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+
+}
+#item2{
+    color:cornsilk;
+    background-color:darkkhaki;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+
+}
+#item3{
+    color:crimson;
+    background-color:rgb(23, 224, 23);
+    width: 70px;
+    height: 30px;
+    text-align: center;
+
+}
+#item4{
+    color:cornflowerblue;
+    background-color:darkviolet;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+
+}
+#item5{
+    color:darkorange;
+    background-color:mediumseagreen;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+
+}
